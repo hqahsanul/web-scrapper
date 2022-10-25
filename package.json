@@ -1,0 +1,19 @@
+{
+  "name": "book-scraper",
+  "version": "1.0.0",
+  "description": "Web scrapping using Node Js and Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xxx"
+  },
+  "author": "hqahsanul",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.1.2"
+  }
+}
